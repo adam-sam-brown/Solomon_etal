@@ -1,4 +1,4 @@
-# Yared_etal
+# Yared et al.
 Data and scripts for forthcoming Leishmaniasis paper (in submission).
 
 ### Abstract
