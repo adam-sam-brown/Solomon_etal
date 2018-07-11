@@ -1,0 +1,747 @@
+Method-ID,Date,Trap,Sand_Fly_Species,Locality,Habitat,Blood_Meal_Source
+PCR-1,5/20/11,sticky trap,Sergentomyia_clydei,Mykadra,periphery_of_village,negative
+PCR-2,5/20/11,sticky trap,Sergentomyia_clydei,Mykadra,periphery_of_village,negative
+PCR-3,5/20/11,sticky trap,Sergentomyia_clydei,Mykadra,periphery_of_village,negative
+PCR-4,5/20/11,sticky trap,Sergentomyia_clydei,Mykadra,periphery_of_village,negative
+PCR-5,5/20/11,sticky trap,Sergentomyia_clydei,Mykadra,periphery_of_village,negative
+PCR-6,5/20/11,sticky trap,Sergentomyia_clydei,Mykadra,periphery_of_village,cow
+PCR-7,5/20/11,sticky trap,Sergentomyia_clydei,Mykadra,farm_fields,negative
+PCR-8,5/20/11,sticky trap,Sergentomyia_clydei,Mykadra,farm_fields,negative
+PCR-9,5/26/11,sticky trap,Sergentomyia_schwetzi,Mykadra,in_village,negative
+PCR-10,5/26/11,sticky trap,Phlebotomus_duboscqi,Mykadra,in_village,human
+PCR-11,5/26/11,sticky trap,Sergentomyia_clydei,Mykadra,in_village,human
+PCR-12,5/26/11,sticky trap,Sergentomyia_clydei,Mykadra,in_village,human + cow
+PCR-13,5/26/11,sticky trap,Sergentomyia_clydei,Mykadra,in_village,human + cow
+PCR-14,5/26/11,sticky trap,Sergentomyia_clydei,Mykadra,in_village,human + cow
+PCR-15,5/26/11,sticky trap,Sergentomyia_clydei,Mykadra,in_village,negative
+PCR-16,5/2/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,goat/sheep
+PCR-17,5/3/12,sticky trap,Phlebotomus_papatasi,Adebay,periphery_of_village,negative
+PCR-18,5/3/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,goat/sheep
+PCR-19,5/4/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,goat/sheep
+PCR-20,5/4/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,human + cow
+PCR-21,5/4/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,human + cow
+PCR-22,5/4/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,human + cow
+PCR-23,5/4/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+PCR-24,5/4/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+PCR-25,5/4/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+PCR-26,5/26/11,sticky trap,Sergentomyia_clydei,Mykadra,in_village,negative
+PCR-27,5/26/11,sticky trap,Sergentomyia_africana,Mykadra,farm_fields,negative
+PCR-28,5/26/11,sticky trap,Sergentomyia_clydei,Mykadra,farm_fields,negative
+PCR-29,7/15/11,sticky trap,Phlebotomus_papatasi,Mykadra,in_village,human + cow
+PCR-30,7/15/11,sticky trap,Sergentomyia_schwetzi,Mykadra,in_village,negative
+PCR-31,7/15/11,sticky trap,Sergentomyia_schwetzi,Mykadra,in_village,negative
+PCR-32,8/11/11,CDC light traps,Phlebotomus_orientalis,Mykadra,farm_fields,negative
+PCR-33,5/20/11,CDC light traps,Phlebotomus_orientalis,Mykadra,farm_fields,negative
+PCR-34,5/20/11,CDC light traps,Phlebotomus_orientalis,Mykadra,farm_fields,negative
+PCR-35,7/15/11,CDC light traps,Phlebotomus_orientalis,Mykadra,farm_fields,negative
+PCR-36,5/5/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,goat/sheep
+PCR-37,5/6/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,cow
+PCR-38,5/6/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,human
+PCR-39,5/6/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,human
+PCR-40,5/6/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,human
+PCR-41,5/7/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,human
+PCR-42,5/7/12,sticky trap,Phlebotomus_bergeroti,Adebay,periphery_of_village,negative
+PCR-43,5/7/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+PCR-44,5/7/12,sticky trap,Phlebotomus_bergeroti,Adebay,periphery_of_village,negative
+PCR-45,5/7/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,human + cow
+PCR-46,7/23/11,CDC light traps,Phlebotomus_orientalis,Mykadra,in_village,negative
+PCR-47,11/13/11,sticky trap,Phlebotomus_papatasi,Mykadra,indoors,human + cow
+PCR-48,11/17/11,sticky trap,Phlebotomus_papatasi,Mykadra,farm_fields,negative
+PCR-49,11/23/11,sticky trap,Phlebotomus_papatasi,Mykadra,periphery_of_village,negative
+PCR-50,11/22/11,sticky trap,Phlebotomus_papatasi,Mykadra,periphery_of_village,negative
+PCR-51,1/28/12,sticky trap,Phlebotomus_papatasi,Mykadra,indoors,negative
+PCR-52,5/21/11,sticky trap,Phlebotomus_orientalis,Mykadra,farm_fields,cow
+PCR-53,5/25/11,sticky trap,Phlebotomus_orientalis,Mykadra,periphery_of_village,negative
+PCR-54,5/21/11,sticky trap,Phlebotomus_papatasi,Mykadra,periphery_of_village,human + cow
+PCR-55,5/25/11,sticky trap,Phlebotomus_orientalis,Mykadra,periphery_of_village,human + cow
+PCR-56,5/7/12,sticky trap,Sergentomyia_schwetzi,Adebay,periphery_of_village,negative
+PCR-57,5/7/12,sticky trap,Sergentomyia_clydei,Adebay,periphery_of_village,negative
+PCR-58,5/7/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+PCR-59,5/7/12,sticky trap,Sergentomyia_clydei,Adebay,periphery_of_village,negative
+PCR-60,5/7/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,cow
+PCR-61,5/12/18,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human
+PCR-62,5/12/18,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human
+PCR-63,5/12/18,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human
+PCR-64,5/12/18,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+PCR-65,5/12/18,CDC light traps,Phlebotomus_lesleyae,Adebay,periphery_of_village,negative
+PCR-66,5/12/18,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,negative
+PCR-67,5/12/18,CDC light traps,Phlebotomus_papatasi,Adebay,in_village,negative
+PCR-68,5/12/18,CDC light traps,Phlebotomus_orientalis,Adebay,in_village,negative
+PCR-69,5/12/18,CDC light traps,Phlebotomus_orientalis,Adebay,in_village,negative
+PCR-70,5/12/18,CDC light traps,Phlebotomus_papatasi,Adebay,in_village,negative
+PCR-71,5/12/18,CDC light traps,Phlebotomus_papatasi,Adebay,in_village,cow
+PCR-72,5/12/18,CDC light traps,Phlebotomus_orientalis,Adebay,in_village,negative
+PCR-73,5/12/18,CDC light traps,Phlebotomus_orientalis,Adebay,in_village,negative
+PCR-74,5/12/18,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+PCR-75,5/12/18,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,negative
+PCR-76,6/30/11,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+PCR-77,7/25/11,CDC light traps,Phlebotomus_orientalis,Adebay,in_village,cow
+PCR-78,7/30/11,sticky trap,Phlebotomus_papatasi,Adebay,periphery_of_village,negative
+PCR-79,7/27/11,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+PCR-80,12/28/11,sticky trap,Phlebotomus_duboscqi,Adebay,indoors,human
+PCR-81,12/28/11,CDC light traps,Phlebotomus_papatasi,Adebay,in_village,cow
+PCR-82,3/14/12,CDC light traps,Phlebotomus_papatasi,Adebay,in_village,cow
+PCR-83,7/4/11,CDC light traps,Phlebotomus_bergeroti,Rawyan,in_village,human + cow
+PCR-84,7/4/11,CDC light traps,Phlebotomus_orientalis,Rawyan,in_village,human + cow
+PCR-85,7/19/11,CDC light traps,Phlebotomus_orientalis,Rawyan,in_village,human + cow
+PCR-86,7/28/11,CDC light traps,Phlebotomus_orientalis,Rawyan,periphery_of_village,negative
+PCR-87,7/28/11,CDC light traps,Phlebotomus_orientalis,Rawyan,periphery_of_village,negative
+PCR-88,10/30/11,CDC light traps,Phlebotomus_orientalis,Rawyan,farm_fields,negative
+PCR-89,11/8/11,CDC light traps,Phlebotomus_papatasi,Rawyan,periphery_of_village,human
+PCR-90,11/18/11,CDC light traps,Phlebotomus_bergeroti,Rawyan,periphery_of_village,cow
+PCR-91,10/13/11,CDC light traps,Phlebotomus_papatasi,Rawyan,indoors,cow
+PCR-92,4/12/12,CDC light traps,Phlebotomus_orientalis,Rawyan,periphery_of_village,negative
+PCR-93,5/29/11,CDC light traps,Phlebotomus_bergeroti,Rawyan,farm_fields,negative
+PCR-94,6/25/11,CDC light traps,Phlebotomus_orientalis,Rawyan,periphery_of_village,negative
+PCR-95,7/19/11,CDC light traps,Phlebotomus_bergeroti,Rawyan,periphery_of_village,negative
+PCR-96,7/19/11,CDC light traps,Phlebotomus_papatasi,Rawyan,periphery_of_village,negative
+PCR-97,7/19/11,CDC light traps,Phlebotomus_papatasi,Rawyan,periphery_of_village,negative
+PCR-98,7/22/11,sticky trap,Phlebotomus_papatasi,Humera_town,periphery_of_village,negative
+PCR-99,8/16/11,CDC light traps,Phlebotomus_orientalis,Humera_town,farm_fields,human
+PCR-100,6/27/11,sticky trap,Phlebotomus_papatasi,Bereket,periphery_of_village,cow
+PCR-101,6/27/11,sticky trap,Phlebotomus_papatasi,Bereket,periphery_of_village,cow
+PCR-102,6/27/11,sticky trap,Phlebotomus_papatasi,Bereket,in_village,cow + camel
+PCR-103,7/5/11,sticky trap,Phlebotomus_bergeroti,Bereket,periphery_of_village,camel
+PCR-104,7/14/11,sticky trap,Phlebotomus_papatasi,Bereket,in_village,camel
+PCR-105,7/14/11,sticky trap,Phlebotomus_papatasi,Bereket,in_village,negative
+PCR-106,7/21/11,CDC light traps,Phlebotomus_papatasi,Bereket,periphery_of_village,cow
+PCR-107,11/7/11,CDC light traps,Phlebotomus_papatasi,Bereket,in_village,negative
+PCR-108,2/19/12,sticky trap,Phlebotomus_papatasi,Bereket,in_village,human
+PCR-109,2/14/11,CDC light traps,Phlebotomus_papatasi,Bereket,in_village,cow + chicken
+PCR-110,11/7/11,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,mouse + chicken
+PCR-111,5/7/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,cow
+PCR-112,5/7/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,cow + mouse
+PCR-113,5/7/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,cow + mouse
+PCR-114,5/7/12,sticky trap,Phlebotomus_orientalis,Adebay,periphery_of_village,cow + camel
+ELISA-1,5/11/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-2,5/11/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-9,5/23/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-10,5/23/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-11,5/23/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-14,5/23/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-16,5/23/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-22,5/27/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-35,6/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-56,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-65,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,cow
+ELISA-66,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,cow
+ELISA-67,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-74,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,cow
+ELISA-84,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,cow
+ELISA-92,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-93,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-121,12/9/12,CDC light traps,Phlebotomus_orientalis ,Humera_town,farm_fields,cow
+ELISA-226,4/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,cow
+ELISA-360,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-406,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,cow
+ELISA-80,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-137,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-149,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-220,4/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-227,4/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-396,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-475,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-459,5/31/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow
+ELISA-8,5/23/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + dog
+ELISA-52,6/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,cow + dog
+ELISA-447,1/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,cow + dog
+ELISA-479,1/5/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + dog
+ELISA-5,5/23/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + dog + donkey
+ELISA-7,5/23/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + dog + donkey
+ELISA-172,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + dog + donkey
+ELISA-471,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + dog + donkey
+ELISA-482,12/2/12,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,cow + dog + donkey
+ELISA-317,3/3/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-318,3/3/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-319,3/3/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-320,3/3/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-321,4/5/13,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-322,4/5/13,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-323,4/5/13,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-324,4/5/13,CDC light traps,Phlebotomus_orientalis ,Bereket,farm_fields,cow + dog + donkey
+ELISA-325,4/6/12,CDC light traps,Phlebotomus_orientalis ,Bereket,farm_fields,cow + dog + donkey
+ELISA-326,4/6/12,CDC light traps,Phlebotomus_orientalis ,Bereket,farm_fields,cow + dog + donkey
+ELISA-327,4/6/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-328,4/6/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-329,4/6/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-330,4/5/13,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-331,4/5/13,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-332,4/5/13,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-333,4/5/13,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-334,4/5/13,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-335,4/5/13,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + dog + donkey
+ELISA-357,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + dog + donkey
+ELISA-437,1/5/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + dog + donkey
+ELISA-442,5/31/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,cow + dog + donkey
+ELISA-449,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,cow + dog + donkey
+ELISA-453,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + dog + donkey
+ELISA-476,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + dog + donkey
+ELISA-237,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + dog + donkey
+ELISA-194,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + dog + donkey
+ELISA-207,1/12/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + donkey
+ELISA-212,1/12/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + donkey
+ELISA-223,4/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + donkey
+ELISA-105,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + donkey
+ELISA-122,1/5/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + donkey
+ELISA-175,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + donkey
+ELISA-219,4/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + donkey
+ELISA-233,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + donkey
+ELISA-234,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + donkey
+ELISA-268,4/6/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,cow + donkey
+ELISA-275,3/11/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,periphery_of_village,cow + donkey
+ELISA-290,4/16/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,cow + donkey
+ELISA-309,1/5/12,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,cow + donkey
+ELISA-389,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,cow + donkey
+ELISA-191,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog
+ELISA-302,2/2/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog
+ELISA-379,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog
+ELISA-388,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,dog
+ELISA-407,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog
+ELISA-408,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,dog
+ELISA-457,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog
+ELISA-462,5/31/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog
+ELISA-488,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,dog
+ELISA-6,5/23/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog + donkey
+ELISA-139,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog + donkey
+ELISA-162,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog + donkey
+ELISA-179,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog + donkey
+ELISA-211,1/12/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog + donkey
+ELISA-259,4/5/13,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,dog + donkey
+ELISA-411,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,dog + donkey
+ELISA-412,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,dog + donkey
+ELISA-493,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog + donkey
+ELISA-123,12/9/12,CDC light traps,Phlebotomus_orientalis ,Humera_town,farm_fields,dog + donkey
+ELISA-170,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog + donkey
+ELISA-316,6/6/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog + donkey
+ELISA-448,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,dog + donkey
+ELISA-452,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog + donkey
+ELISA-464,5/31/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,dog + donkey
+ELISA-141,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog + goat/sheep
+ELISA-376,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog + goat/sheep
+ELISA-387,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog + goat/sheep
+ELISA-419,2/6/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,dog + goat/sheep
+ELISA-440,5/31/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,dog + goat/sheep
+ELISA-36,6/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-37,6/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-38,6/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-125,3/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,donkey
+ELISA-126,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-127,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-151,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-152,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-164,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-165,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,donkey
+ELISA-178,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-183,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-185,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-196,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-197,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-200,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-206,1/12/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,donkey
+ELISA-209,1/12/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-214,1/12/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-216,1/12/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-217,1/12/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-218,4/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-222,4/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-224,4/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,donkey
+ELISA-235,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-238,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-239,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-240,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,donkey
+ELISA-241,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,donkey
+ELISA-243,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-244,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-245,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-247,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-248,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-250,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-252,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-253,3/3/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey
+ELISA-254,3/3/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey
+ELISA-255,3/3/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey
+ELISA-256,3/3/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey
+ELISA-257,3/3/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey
+ELISA-258,4/5/13,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey
+ELISA-260,4/5/13,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey
+ELISA-261,4/5/13,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey
+ELISA-262,4/5/13,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey
+ELISA-263,4/6/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey
+ELISA-264,4/6/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey
+ELISA-265,4/6/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey
+ELISA-266,4/6/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey
+ELISA-272,3/11/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,periphery_of_village,donkey
+ELISA-274,3/11/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,periphery_of_village,donkey
+ELISA-277,3/11/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,periphery_of_village,donkey
+ELISA-282,4/24/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,periphery_of_village,donkey
+ELISA-286,4/16/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,donkey
+ELISA-291,4/16/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,donkey
+ELISA-296,4/16/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,donkey
+ELISA-297,4/16/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,donkey
+ELISA-298,2/2/12,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,donkey
+ELISA-299,2/2/12,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,donkey
+ELISA-300,2/2/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-301,2/2/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-305,4/30/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,periphery_of_village,donkey
+ELISA-306,4/30/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,periphery_of_village,donkey
+ELISA-308,1/5/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-313,6/6/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-314,6/6/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-358,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,donkey
+ELISA-363,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,donkey
+ELISA-393,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,donkey
+ELISA-399,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-400,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-454,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-461,5/31/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-484,5/11/12,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,donkey
+ELISA-490,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-496,5/31/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey
+ELISA-225,4/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,donkey 
+ELISA-142,5/10/13,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,donkey + goat/sheep
+ELISA-101,5/15/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey + goat/sheep
+ELISA-112,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey + goat/sheep
+ELISA-114,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey + goat/sheep
+ELISA-124,12/9/12,CDC light traps,Phlebotomus_orientalis ,Humera_town,farm_fields,donkey + goat/sheep
+ELISA-129,3/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey + goat/sheep
+ELISA-173,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey + goat/sheep
+ELISA-180,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey + goat/sheep
+ELISA-267,4/6/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey + goat/sheep
+ELISA-269,4/6/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey + goat/sheep
+ELISA-270,4/6/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,donkey + goat/sheep
+ELISA-281,4/24/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,in_village,donkey + goat/sheep
+ELISA-283,4/24/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,periphery_of_village,donkey + goat/sheep
+ELISA-284,4/24/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,periphery_of_village,donkey + goat/sheep
+ELISA-285,4/16/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,donkey + goat/sheep
+ELISA-303,2/2/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey + goat/sheep
+ELISA-304,4/30/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,periphery_of_village,donkey + goat/sheep
+ELISA-312,6/6/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey + goat/sheep
+ELISA-497,5/31/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey + goat/sheep
+ELISA-195,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,donkey + goat/sheep
+ELISA-154,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,goat/sheep
+ELISA-94,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,goat/sheep
+ELISA-103,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,goat/sheep
+ELISA-138,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,goat/sheep
+ELISA-140,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,goat/sheep
+ELISA-153,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,goat/sheep
+ELISA-161,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,goat/sheep
+ELISA-166,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,goat/sheep
+ELISA-167,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,goat/sheep
+ELISA-186,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,goat/sheep
+ELISA-188,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,goat/sheep
+ELISA-231,4/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,goat/sheep
+ELISA-364,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,goat/sheep
+ELISA-402,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,goat/sheep
+ELISA-403,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,goat/sheep
+ELISA-96,4/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,goat/sheep
+ELISA-111,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,goat/sheep
+ELISA-287,4/16/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,goat/sheep
+ELISA-17,5/23/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human
+ELISA-19,5/23/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human
+ELISA-32,5/28/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human
+ELISA-39,6/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human
+ELISA-13,5/23/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow
+ELISA-31,5/28/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow
+ELISA-59,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow
+ELISA-61,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow
+ELISA-63,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,human + cow
+ELISA-64,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow
+ELISA-69,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow
+ELISA-70,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow
+ELISA-71,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow
+ELISA-72,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow
+ELISA-77,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow
+ELISA-78,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow
+ELISA-79,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow
+ELISA-81,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow
+ELISA-83,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow
+ELISA-481,12/2/12,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,human + cow + dog
+ELISA-492,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow + dog
+ELISA-24,5/27/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow + dog + donkey
+ELISA-483,12/2/12,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,human + cow + dog + donkey
+ELISA-466,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,human + cow + dog + donkey
+ELISA-57,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow + donkey
+ELISA-58,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow + donkey
+ELISA-60,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow + donkey
+ELISA-62,6/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + cow + donkey
+ELISA-18,5/23/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + dog
+ELISA-478,1/5/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + dog + donkey
+ELISA-251,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + dog + donkey
+ELISA-210,1/12/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + dog + donkey
+ELISA-4,5/11/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + donkey
+ELISA-20,5/27/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + donkey
+ELISA-21,5/27/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + donkey
+ELISA-25,5/27/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + donkey
+ELISA-26,5/27/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + donkey
+ELISA-29,5/28/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + donkey
+ELISA-30,5/28/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + donkey
+ELISA-40,6/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + donkey
+ELISA-249,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + donkey
+ELISA-280,4/24/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,periphery_of_village,human + donkey
+ELISA-315,6/6/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,human + donkey
+ELISA-468,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,human + donkey
+ELISA-27,5/27/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-95,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-104,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-106,5/30/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-107,5/30/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-108,5/30/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-109,5/30/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-110,5/30/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-113,5/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-128,3/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-130,1/1/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-131,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-132,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-133,3/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-134,3/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-135,3/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-136,3/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-147,3/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-148,3/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-155,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-156,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-157,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-158,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-159,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-160,6/8/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-163,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-168,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-169,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-171,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-174,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-176,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-177,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-181,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-182,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-184,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-187,4/3/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-189,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-190,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-192,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-193,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-198,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-199,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-201,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-202,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-203,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-204,3/2/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-205,1/12/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-208,1/12/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-213,1/12/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-215,1/12/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-221,4/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-230,4/6/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-232,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-236,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-242,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-246,3/9/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-273,3/11/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,periphery_of_village,negative
+ELISA-276,3/11/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,periphery_of_village,negative
+ELISA-279,4/24/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,periphery_of_village,negative
+ELISA-288,4/16/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,negative
+ELISA-289,4/16/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,negative
+ELISA-292,4/16/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,negative
+ELISA-294,4/16/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,negative
+ELISA-307,4/30/12,CDC light traps,Phlebotomus_orientalis ,Mykadra,farm_fields,negative
+ELISA-310,1/5/12,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-311,1/5/12,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-356,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-359,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-361,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-362,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-366,5/10/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-367,3/14/12,CDC light traps,Phlebotomus_orientalis ,Bereket,periphery_of_village,negative
+ELISA-370,5/30/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-371,5/30/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-373,5/30/13,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,negative
+ELISA-375,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-377,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-378,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-380,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-381,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-382,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-383,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-384,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-385,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-386,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-390,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-391,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-392,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-394,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-395,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-397,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-398,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-404,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-409,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-413,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-416,2/6/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,negative
+ELISA-417,2/6/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,negative
+ELISA-418,2/6/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,negative
+ELISA-420,2/6/12,CDC light traps,Phlebotomus_orientalis ,Rawyan,periphery_of_village,negative
+ELISA-423,6/6/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-424,6/6/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-425,6/6/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-426,6/6/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-429,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-430,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-431,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-434,1/5/12,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-436,1/5/12,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-438,1/5/12,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-441,5/31/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-444,1/14/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-450,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-451,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-455,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-456,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,in_village,negative
+ELISA-458,5/31/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-460,5/31/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-463,5/31/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-467,3/7/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-472,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-474,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-485,6/4/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-489,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,farm_fields,negative
+ELISA-494,4/28/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-498,5/31/13,CDC light traps,Phlebotomus_orientalis ,Adebay,periphery_of_village,negative
+ELISA-5,3/7/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,cow
+ELISA-152,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,cow
+ELISA-9,6/8/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,cow
+ELISA-132,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,cow + dog + donkey
+ELISA-2,5/30/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,cow + donkey
+ELISA-104,5/30/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,cow + donkey
+ELISA-146,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,cow + donkey
+ELISA-129,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,cow + donkey
+ELISA-150,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,cow + donkey
+ELISA-11,6/8/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,cow + donkey
+ELISA-12,6/4/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,cow + donkey
+ELISA-26,6/8/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,cow + donkey
+ELISA-134,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,dog + donkey
+ELISA-13,5/15/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,donkey
+ELISA-14,5/15/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,donkey
+ELISA-15,5/15/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,donkey
+ELISA-17,5/15/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,donkey
+ELISA-19,3/7/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,donkey
+ELISA-21,3/7/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,donkey
+ELISA-27,6/8/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,donkey
+ELISA-34,3/7/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,donkey
+ELISA-42,5/15/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,donkey
+ELISA-47,4/6/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,donkey
+ELISA-51,3/4/13,CDC light traps,Phlebotomus_orientalis,Adebay,domestic_habitat,donkey
+ELISA-52,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,donkey
+ELISA-53,4/5/13,CDC light traps,Phlebotomus_orientalis,Adebay,peridomestic,donkey
+ELISA-54,5/15/13,CDC light traps,Phlebotomus_orientalis,Adebay,peridomestic,donkey
+ELISA-55,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,peridomestic,donkey
+ELISA-67,5/4/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,donkey
+ELISA-95,5/30/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,donkey
+ELISA-101,3/4/13,CDC light traps,Phlebotomus_orientalis,Adebay,peridomestic,donkey
+ELISA-126,5/30/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,donkey
+ELISA-139,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,donkey
+ELISA-29,6/8/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,donkey + goat/sheep
+ELISA-63,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,donkey + goat/sheep
+ELISA-16,3/7/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,donkey + goat/sheep
+ELISA-61,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,donkey + goat/sheep
+ELISA-130,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,donkey + goat/sheep
+ELISA-33,6/8/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,donkey + goat/sheep
+ELISA-31,6/8/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,goat/sheep
+ELISA-49,3/4/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,goat/sheep
+ELISA-7,3/7/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,goat/sheep
+ELISA-23,3/7/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,goat/sheep
+ELISA-86,4/28/13,CDC light traps,Phlebotomus_orientalis,Adebay,domestic_habitat,goat/sheep
+ELISA-133,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,goat/sheep
+ELISA-136,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,goat/sheep
+ELISA-144,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,goat/sheep
+ELISA-151,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,goat/sheep
+ELISA-154,1/14/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,goat/sheep
+ELISA-62,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human
+ELISA-28,6/8/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human
+ELISA-30,6/8/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human
+ELISA-38,3/7/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human
+ELISA-40,5/15/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human
+ELISA-71,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human
+ELISA-72,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human
+ELISA-74,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human
+ELISA-80,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human
+ELISA-93,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human
+ELISA-122,5/30/13,CDC light traps,Phlebotomus_orientalis,Adebay,domestic_habitat,human
+ELISA-123,4/5/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human
+ELISA-127,3/4/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human
+ELISA-135,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human
+ELISA-138,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human
+ELISA-148,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human
+ELISA-66,5/30/13,CDC light traps,Phlebotomus_orientalis,Adebay,peridomestic,human
+ELISA-58,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,peridomestic,human + cow
+ELISA-92,5/30/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human + cow
+ELISA-10,5/15/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human + cow + dog + donkey
+ELISA-45,5/15/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human + cow + dog + donkey
+ELISA-6,3/7/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human + cow + donkey
+ELISA-59,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,peridomestic,human + cow + donkey
+ELISA-8,3/7/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human + donkey
+ELISA-25,5/15/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human + donkey
+ELISA-35,5/15/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human + donkey
+ELISA-37,6/8/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human + donkey
+ELISA-44,6/8/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human + donkey
+ELISA-50,3/4/13,CDC light traps,Phlebotomus_orientalis,Adebay,domestic_habitat,human + donkey
+ELISA-56,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,peridomestic,human + donkey
+ELISA-57,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,peridomestic,human + donkey
+ELISA-60,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human + donkey
+ELISA-68,4/5/13,CDC light traps,Phlebotomus_orientalis,Adebay,peridomestic,human + donkey
+ELISA-73,5/15/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human + donkey
+ELISA-75,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human + donkey
+ELISA-77,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human + donkey
+ELISA-3,5/30/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human + donkey
+ELISA-76,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human + donkey
+ELISA-78,5/15/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human + donkey
+ELISA-140,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human + donkey
+ELISA-142,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human + donkey
+ELISA-143,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human + donkey
+ELISA-153,1/14/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human + donkey
+ELISA-18,6/4/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,human + donkey
+ELISA-39,6/8/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,human + donkey
+ELISA-4,3/7/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+ELISA-20,3/7/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+ELISA-22,3/7/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+ELISA-24,3/7/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+ELISA-32,6/8/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+ELISA-36,4/6/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,negative
+ELISA-41,3/5/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+ELISA-43,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,negative
+ELISA-46,3/7/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+ELISA-64,3/4/13,CDC light traps,Phlebotomus_orientalis,Adebay,peridomestic,negative
+ELISA-70,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,negative
+ELISA-79,5/10/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,negative
+ELISA-89,4/5/13,CDC light traps,Phlebotomus_orientalis,Adebay,peridomestic,negative
+ELISA-94,4/5/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,negative
+ELISA-96,6/2/13,CDC light traps,Phlebotomus_orientalis,Rawyan,periphery_of_village,negative
+ELISA-98,5/30/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,negative
+ELISA-99,3/4/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,negative
+ELISA-100,3/4/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,negative
+ELISA-106,3/4/13,CDC light traps,Phlebotomus_orientalis,Adebay,peridomestic,negative
+ELISA-110,4/5/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+ELISA-118,4/5/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+ELISA-119,4/28/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,negative
+ELISA-120,5/30/13,CDC light traps,Phlebotomus_orientalis,Adebay,farm_fields,negative
+ELISA-131,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+ELISA-137,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+ELISA-141,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+ELISA-145,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+ELISA-147,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+ELISA-149,5/9/13,CDC light traps,Phlebotomus_orientalis,Adebay,periphery_of_village,negative
+ELISA-12,5/23/12,CDC light traps,Phlebotomus_alexandri,Adebay,periphery_of_village,cow
+ELISA-23,5/27/12,CDC light traps,Phlebotomus_alexandri,Adebay,periphery_of_village,human + donkey
+ELISA-278,3/11/12,CDC light traps,Phlebotomus_bergeroti,Mykadra,periphery_of_village,negative
+ELISA-295,4/16/12,CDC light traps,Phlebotomus_bergeroti,Rawyan,periphery_of_village,negative
+ELISA-415,2/2/13,CDC light traps,Phlebotomus_bergeroti,Adebay,periphery_of_village,negative
+ELISA-427,4/28/13,CDC light traps,Phlebotomus_bergeroti,Adebay,periphery_of_village,negative
+ELISA-480,1/5/12,CDC light traps,Sergentomyia_africana,Adebay,farm_fields,donkey
+ELISA-445,1/14/13,CDC light traps,Sergentomyia_africana,Adebay,farm_fields,negative
+ELISA-119,3/4/13,CDC light traps,Sergentomyia_africana,Adebay,periphery_of_village,negative
+ELISA-120,3/4/13,CDC light traps,Sergentomyia_africana,Adebay,periphery_of_village,negative
+ELISA-113,4/5/13,CDC light traps,Sergentomyia_africana,Adebay,periphery_of_village,negative
+ELISA-98,5/31/13,CDC light traps,Sergentomyia_bedfordi,Mykadra,in_village,cow
+ELISA-368,5/30/13,CDC light traps,Sergentomyia_bedfordi,Adebay,farm_fields,negative
+ELISA-124,5/30/13,CDC light traps,Sergentomyia_bedfordi,Adebay,farm_fields,negative
+ELISA-50,6/6/12,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,cow
+ELISA-51,6/6/12,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,cow
+ELISA-68,6/9/12,CDC light traps,Sergentomyia_clydei,Adebay,in_village,cow
+ELISA-76,6/9/12,CDC light traps,Sergentomyia_clydei,Adebay,in_village,cow
+ELISA-229,4/6/12,CDC light traps,Sergentomyia_clydei,Adebay,periphery_of_village,cow
+ELISA-103,5/30/13,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,cow
+ELISA-53,6/6/12,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,cow + dog
+ELISA-54,6/6/12,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,cow + dog
+ELISA-41,6/6/12,CDC light traps,Sergentomyia_clydei,Adebay,periphery_of_village,cow + donkey
+ELISA-15,5/23/12,CDC light traps,Sergentomyia_clydei,Adebay,periphery_of_village,human + cow + dog + donkey
+ELISA-34,5/28/12,CDC light traps,Sergentomyia_clydei,Adebay,periphery_of_village,dog
+ELISA-146,5/30/13,CDC light traps,Sergentomyia_clydei,Adebay,periphery_of_village,dog
+ELISA-33,5/28/12,CDC light traps,Sergentomyia_clydei,Adebay,periphery_of_village,dog + donkey
+ELISA-45,6/6/12,CDC light traps,Sergentomyia_clydei,Adebay,periphery_of_village,donkey
+ELISA-75,6/9/12,CDC light traps,Sergentomyia_clydei,Adebay,in_village,donkey
+ELISA-112,5/30/13,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,human
+ELISA-73,6/9/12,CDC light traps,Sergentomyia_clydei,Adebay,in_village,human + cow
+ELISA-43,6/6/12,CDC light traps,Sergentomyia_clydei,Adebay,periphery_of_village,human + cow
+ELISA-46,6/6/12,CDC light traps,Sergentomyia_clydei,Adebay,periphery_of_village,human + cow
+ELISA-47,6/6/12,CDC light traps,Sergentomyia_clydei,Adebay,periphery_of_village,human + cow
+ELISA-48,6/6/12,CDC light traps,Sergentomyia_clydei,Adebay,periphery_of_village,human + cow
+ELISA-44,6/6/12,CDC light traps,Sergentomyia_clydei,Adebay,periphery_of_village,human + cow + dog
+ELISA-443,1/14/13,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,goat/sheep
+ELISA-435,1/5/12,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,negative
+ELISA-42,6/6/12,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,negative
+ELISA-414,2/2/13,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,negative
+ELISA-421,4/5/13,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,negative
+ELISA-401,4/28/13,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,negative
+ELISA-405,4/28/13,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,negative
+ELISA-433,4/28/13,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,negative
+ELISA-369,5/30/13,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,negative
+ELISA-372,5/30/13,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,negative
+ELISA-374,5/30/13,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,negative
+ELISA-465,5/31/13,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,negative
+ELISA-422,6/6/13,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,negative
+ELISA-150,5/31/13,CDC light traps,Sergentomyia_clydei,Mykadra,in_village,negative
+ELISA-365,5/31/13,CDC light traps,Sergentomyia_clydei,Mykadra,in_village,negative
+ELISA-428,4/28/13,CDC light traps,Sergentomyia_clydei,Adebay,periphery_of_village,negative
+ELISA-102,5/30/13,CDC light traps,Sergentomyia_clydei,Adebay,periphery_of_village,negative
+ELISA-102,5/14/13,CDC light traps,Sergentomyia_clydei,Adebay,peridomestic,negative
+ELISA-90,5/30/13,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,negative
+ELISA-105,5/30/13,CDC light traps,Sergentomyia_clydei,Adebay,in_village,negative
+ELISA-107,5/30/13,CDC light traps,Sergentomyia_clydei,Adebay,in_village,negative
+ELISA-111,5/30/13,CDC light traps,Sergentomyia_clydei,Adebay,farm_fields,negative
+ELISA-84,5/31/13,CDC light traps,Sergentomyia_clydei,Mykadra,in_village,negative
+ELISA-88,5/31/13,CDC light traps,Sergentomyia_clydei,Mykadra,in_village,negative
+ELISA-49,6/6/12,CDC light traps,Sergentomyia_schwetzi,Adebay,farm_fields,cow
+ELISA-3,5/11/12,CDC light traps,Sergentomyia_schwetzi,Adebay,periphery_of_village,cow
+ELISA-99,3/4/13,CDC light traps,Sergentomyia_schwetzi,Adebay,periphery_of_village,cow
+ELISA-81,5/14/13,CDC light traps,Sergentomyia_schwetzi,Adebay,farm_fields,cow
+ELISA-410,4/28/13,CDC light traps,Sergentomyia_schwetzi,Adebay,in_village,dog
+ELISA-65,5/3/13,CDC light traps,Sergentomyia_schwetzi,Mykadra,in_village,human + donkey
+ELISA-125,5/30/13,CDC light traps,Sergentomyia_schwetzi,Adebay,farm_fields,human
+ELISA-55,6/6/12,CDC light traps,Sergentomyia_schwetzi,Adebay,periphery_of_village,human + cow
+ELISA-82,6/9/12,CDC light traps,Sergentomyia_schwetzi,Adebay,periphery_of_village,human + cow
+ELISA-115,5/30/13,CDC light traps,Sergentomyia_schwetzi,Adebay,farm_fields,human
+ELISA-469,3/7/13,CDC light traps,Sergentomyia_schwetzi,Adebay,farm_fields,negative
+ELISA-432,4/28/13,CDC light traps,Sergentomyia_schwetzi,Adebay,farm_fields,negative
+ELISA-118,3/4/13,CDC light traps,Sergentomyia_schwetzi,Adebay,in_village,negative
+ELISA-116,5/14/13,CDC light traps,Sergentomyia_schwetzi,Adebay,in_village,negative
+ELISA-115,5/31/13,CDC light traps,Sergentomyia_schwetzi,Mykadra,in_village,negative
+ELISA-117,5/31/13,CDC light traps,Sergentomyia_schwetzi,Mykadra,in_village,negative
+ELISA-271,3/11/12,CDC light traps,Sergentomyia_schwetzi,Mykadra,periphery_of_village,negative
+ELISA-100,5/14/13,CDC light traps,Sergentomyia_schwetzi,Adebay,periphery_of_village,negative
+ELISA-97,5/30/13,CDC light traps,Sergentomyia_schwetzi,Adebay,periphery_of_village,negative
+ELISA-439,5/31/13,CDC light traps,Sergentomyia_schwetzi,Adebay,periphery_of_village,negative
+ELISA-117,4/5/13,CDC light traps,Sergentomyia_schwetzi,Adebay,periphery_of_village,negative
+ELISA-82,5/14/13,CDC light traps,Sergentomyia_schwetzi,Adebay,farm_fields,negative
+ELISA-83,5/14/13,CDC light traps,Sergentomyia_schwetzi,Adebay,farm_fields,negative
+ELISA-114,5/14/13,CDC light traps,Sergentomyia_schwetzi,Adebay,peridomestic,negative
+ELISA-121,5/14/13,CDC light traps,Sergentomyia_schwetzi,Adebay,farm_fields,negative
+ELISA-1,5/30/13,CDC light traps,Sergentomyia_schwetzi,Adebay,farm_fields,negative
+ELISA-108,5/30/13,CDC light traps,Sergentomyia_schwetzi,Adebay,in_village,negative
+ELISA-109,5/30/13,CDC light traps,Sergentomyia_schwetzi,Adebay,farm_fields,negative
+ELISA-128,5/30/13,CDC light traps,Sergentomyia_schwetzi,Adebay,farm_fields,negative
+ELISA-85,5/31/13,CDC light traps,Sergentomyia_schwetzi,Mykadra,in_village,negative
+ELISA-228,4/6/12,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,cow
+ELISA-477,6/4/13,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,cow
+ELISA-97,5/30/13,CDC light traps,Phlebotomus_papatasi,Adebay,domestic_habitat,cow + donkey
+ELISA-486,6/4/13,CDC light traps,Phlebotomus_papatasi,Adebay,farm_fields,dog
+ELISA-28,5/27/12,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,dog
+ELISA-90,6/8/13,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,donkey
+ELISA-69,5/30/13,CDC light traps,Phlebotomus_papatasi,Adebay,peridomestic,donkey
+ELISA-491,3/7/13,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,goat/sheep
+ELISA-87,6/8/13,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,goat/sheep
+ELISA-91,5/30/13,CDC light traps,Phlebotomus_papatasi,Adebay,domestic_habitat,human
+ELISA-487,6/4/13,CDC light traps,Phlebotomus_papatasi,Adebay,farm_fields,negative
+ELISA-293,4/16/12,CDC light traps,Phlebotomus_papatasi,Rawyan,in_village,negative
+ELISA-145,3/4/13,CDC light traps,Phlebotomus_papatasi,Adebay,in_village,negative
+ELISA-495,1/5/12,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,negative
+ELISA-446,1/14/13,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,negative
+ELISA-143,3/4/13,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,negative
+ELISA-144,3/4/13,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,negative
+ELISA-470,6/4/13,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,negative
+ELISA-473,6/4/13,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,negative
+ELISA-85,6/8/13,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,negative
+ELISA-86,6/8/13,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,negative
+ELISA-88,6/8/13,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,negative
+ELISA-89,6/8/13,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,negative
+ELISA-91,6/8/13,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,negative
+ELISA-48,3/4/13,CDC light traps,Phlebotomus_papatasi,Adebay,domestic_habitat,negative
+ELISA-87,4/5/13,CDC light traps,Phlebotomus_papatasi,Adebay,domestic_habitat,negative
+ELISA-116,4/5/13,CDC light traps,Phlebotomus_papatasi,Adebay,periphery_of_village,negative
