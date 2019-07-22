@@ -1,5 +1,22 @@
-# Yared et al.
-A molecular analysis of sand fly blood meals in a visceral leishmaniasis endemic region of northwestern Ethiopia reveals a complex host-vector system (in proof).
+# A molecular analysis of sand fly blood meals in a visceral leishmaniasis endemic region of northwestern Ethiopia reveals a complex host-vector system (in proof).
+
+Solomon Yared [1, ¶], Araya Gebresilassie [2, ¶], Ibrahim Abbasi [3], Essayas Aklilu [4], Oscar D. Kirstein [3], Meshesha Balkew [5], Adam S. Brown [6], Ronald M. Clouse [7, *], Alon Warburg [3], Asrat Hailu [8], and Teshome Gebre-Michael [9, †]
+
+1 Department of Biology, Jigjiga University, Jigjiga, Ethiopia
+2 Department of Zoological Sciences, Addis Ababa University, Addis Ababa, Ethiopia
+3The Kuvin Center for the Study of Infectious and Tropical Diseases, Institute for Medical Research, The Hebrew University, Israel.
+4 Department of Biology, Mada Walabu University, Bale-Robe, Ethiopia
+5 President’s Malaria Initiative (PMI) Vector Link Project, Ethiopia
+6 Harvard University, Department of Biomedical Informatics, Boston, MA
+7American Museum of Natural History, New York, NY
+8 Department of Microbiology, Immunology & Parasitology, School of Medicine; Addis Ababa University, Addis Ababa, Ethiopia
+9 Aklilu Lemma Institute of Pathobiology, Addis Ababa University, Addis Ababa, Ethiopia
+
+* Corresponding author
+Email: rclouse@amnh.org
+¶ These authors contributed equally to this work.
+† This author is now deceased.
+
 
 ### Abstract
 **Background:** Visceral leishmaniasis (VL, or “kala-azar”) is a major cause of disability and death, especially in East Africa. Its vectors, sand flies (Diptera: Psychodidae: Phlebotominae), are poorly controlled and guarded against in these regions, owing in part to a lack of understanding about their feeding behavior.
